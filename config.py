@@ -8,4 +8,4 @@ class Config:
     TOKEN = os.environ.get("TOKEN", "YOUR BOT TOKEN")
     MONGO_URL = "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
     START_PIC = "https://files.catbox.moe/g2leyq.jpg"
-    SUDOERS = filters.user(["YOUR OWNER ID"])
+    SUDOERS = filters.user(["5186826758"])
